@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert from base-10 to base-N", "Conver from base-10 to base-N\Convert from base-10 to base-N.csproj", "{A38C32D0-08C4-4439-9063-03F06930B332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert from base-N to base-10", "..\..\Convert from base-N to base-10\Convert from base-N to base-10\Convert from base-N to base-10.csproj", "{660B8C77-6946-4E9A-BE8A-ECA075F013D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Multiplier", "..\..\Character Multiplier\Character Multiplier\Character Multiplier.csproj", "{AAD26200-6E40-4EE0-942A-3C707734EF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters Change Numbers", "..\..\Letters Change Numbers\Letters Change Numbers\Letters Change Numbers.csproj", "{BE1C3E4F-5D08-4475-9780-2FE9D94A97B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38C32D0-08C4-4439-9063-03F06930B332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38C32D0-08C4-4439-9063-03F06930B332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38C32D0-08C4-4439-9063-03F06930B332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38C32D0-08C4-4439-9063-03F06930B332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660B8C77-6946-4E9A-BE8A-ECA075F013D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660B8C77-6946-4E9A-BE8A-ECA075F013D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660B8C77-6946-4E9A-BE8A-ECA075F013D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660B8C77-6946-4E9A-BE8A-ECA075F013D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD26200-6E40-4EE0-942A-3C707734EF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD26200-6E40-4EE0-942A-3C707734EF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD26200-6E40-4EE0-942A-3C707734EF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD26200-6E40-4EE0-942A-3C707734EF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1C3E4F-5D08-4475-9780-2FE9D94A97B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1C3E4F-5D08-4475-9780-2FE9D94A97B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1C3E4F-5D08-4475-9780-2FE9D94A97B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1C3E4F-5D08-4475-9780-2FE9D94A97B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289BCB71-A225-44CD-814C-8ADFA0F45753}
+	EndGlobalSection
+EndGlobal

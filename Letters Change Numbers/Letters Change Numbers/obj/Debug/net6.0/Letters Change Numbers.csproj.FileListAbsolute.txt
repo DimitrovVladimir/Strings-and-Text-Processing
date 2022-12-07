@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.exe
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.deps.json
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.pdb
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\refint\Letters Change Numbers.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.pdb
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Letters Change Numbers\Letters Change Numbers\obj\Debug\net6.0\ref\Letters Change Numbers.dll

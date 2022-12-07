@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\net6.0\Convert from base-N to base-10.exe
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\net6.0\Convert from base-N to base-10.deps.json
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\net6.0\Convert from base-N to base-10.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\net6.0\Convert from base-N to base-10.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\net6.0\Convert from base-N to base-10.pdb
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\refint\Convert from base-N to base-10.dll
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.pdb
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\Convert from base-N to base-10.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Strings and Text Processing\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\net6.0\ref\Convert from base-N to base-10.dll
